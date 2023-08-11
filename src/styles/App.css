@@ -1,1 +1,7 @@
-
+.parent{
+    background-color: lawngreen;
+    padding:10px;
+}
+.child{
+    background-color: brown;
+}
